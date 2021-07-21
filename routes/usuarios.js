@@ -1,4 +1,4 @@
-//?
+//! Rutas de peticiones
 
 const {Router} = require('express');
 const {peticionGet} = require('../controllers/usuarios');
